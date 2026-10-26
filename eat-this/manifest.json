@@ -1,0 +1,7 @@
+{
+  "name": "Eat This",
+  "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M4 3h12a5 5 0 0 1 0 10H8a2 2 0 0 0 0 4h12v4H8a6 6 0 0 1 0-12h8a1 1 0 0 0 0-2H4z\"/></svg>",
+  "active-icon": "<svg viewBox=\"0 0 24 24\" fill=\"#1ed760\"><path d=\"M4 3h12a5 5 0 0 1 0 10H8a2 2 0 0 0 0 4h12v4H8a6 6 0 0 1 0-12h8a1 1 0 0 0 0-2H4z\"/></svg>",
+  "subfiles": ["engine.js", "spotify.js", "board.js"],
+  "subfiles_extension": ["extension.js"]
+}
